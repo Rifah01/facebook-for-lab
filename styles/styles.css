@@ -1,0 +1,67 @@
+.facebook-title{
+    color: blue;
+}
+.paragraph{
+    color: black;
+    margin-top: -10px;
+}
+
+.main-parent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.for-right-side{
+    background-color: rgb(242, 243, 243);
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px darkgrey;
+    text-align: center;
+    width:300px ;
+    height: 280px;
+    
+}
+
+.button1{
+    background-color: rgb(38, 38, 207);
+    color: aliceblue;
+    border-radius: 3px;
+    width:270px;
+    height:30px;
+    border:none;
+    margin:8px 5px;
+}
+.button2{
+    color:rgb(31, 31, 138);
+    background-color: aliceblue;
+    box-shadow: 2px 2px 1px darkgray;
+    border-radius: 3px;
+    width:270px;
+    height:30px;
+     margin:8px 5px;
+    border: none;
+}
+
+.button3{
+    color: aliceblue;
+    background-color: rgb(63, 133, 63);
+    border-radius: 3px;
+    width:170px;
+    height:30px;
+     margin:8px 5px;
+    border: none;
+}
+.paragraph2{
+    text-align: center;
+    font-size: small;
+}
+.change-weight{
+    color: black;
+}
+.right-main{
+    margin:0 auto;
+}
